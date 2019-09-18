@@ -75,6 +75,6 @@
     <!-- camera applications -->
     <hidden-api-whitelisted-app package="com.google.camera.GoogleCamera" />
     <hidden-api-whitelisted-app package="com.android.camera2" />
-    <hidden-api-whitelisted-app package="org.lineageos.snap" />
+    <hidden-api-whitelisted-app package="org.mokee.snap" />
     <hidden-api-whitelisted-app package="com.google.android.CameraRedmi5Plus" />
 </config>
